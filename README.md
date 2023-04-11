@@ -65,4 +65,3 @@ This project is licensed under the GPLv3 License. See the LICENSE file for the f
 ## External Libraries and Repositories Used
 - [ImagePicker](https://github.com/Dhaval2404/ImagePicker)
 - [On-device Machine Learning Codelabs](https://github.com/googlecodelabs/odml-pathways)
-
